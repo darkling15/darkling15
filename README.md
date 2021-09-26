@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Wood
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning Pyhton
+- 💞️ I’m looking to collaborate on nothing right now since I'm a begginer 
+- 📫 How to reach me, as of right now will be private until I start writing better code or start my bachealors in software engeenering 
